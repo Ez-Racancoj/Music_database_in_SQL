@@ -1,2 +1,1 @@
-# CS_432
-Database system
+# Music database gourp progect for CS 432
